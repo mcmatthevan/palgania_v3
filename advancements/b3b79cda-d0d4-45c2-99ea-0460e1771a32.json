@@ -1,0 +1,84 @@
+{
+  "palg_adv:root": {
+    "criteria": {
+      "automatic": "2022-02-12 13:20:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-02-12 13:21:17 +0100"
+    },
+    "done": true
+  },
+  "palg_adv:success": {
+    "criteria": {
+      "always": "2022-02-12 13:20:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-02-12 13:21:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-02-12 13:20:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-02-12 13:20:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-02-12 13:21:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-02-12 13:21:17 +0100"
+    },
+    "done": true
+  },
+  "palg_adv:quests": {
+    "criteria": {
+      "always": "2022-02-12 13:20:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-02-12 13:56:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-02-12 13:21:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-02-12 13:21:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-02-12 13:21:47 +0100",
+      "minecraft:cold_ocean": "2022-02-12 13:20:43 +0100",
+      "minecraft:forest": "2022-02-12 13:54:20 +0100",
+      "minecraft:plains": "2022-02-12 13:22:10 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

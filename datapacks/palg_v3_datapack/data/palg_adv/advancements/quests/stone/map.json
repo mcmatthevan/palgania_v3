@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:player_head",
+        "nbt": "{SkullOwner:{Id:[I;1553889950,-488486638,-2078573467,208511752],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjY0MGUxZDExZjkyMjQ2NzI2ZDY4NTY0ZjhjZmUwNjk5YzJjZDQ0Y2ZkOTFjMTY4NzEyYmE2MzU2ZDgzNzkifX19\"}]}}}"
+      },
+      "title": {
+        "text": "Ça fait beaucoup là non ?",
+        "color": "#F3B306"
+      },
+      "description": {
+        "text": "Obtenir la carte permettant de se rendre au lointain donjon de Pierre...",
+        "color": "green"
+      }
+    },
+    "parent": "palg_adv:quests",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:filled_map"
+              ],
+              "nbt": "{display:{Name:'{\"text\":\"Carte menant au donjon de Pierre\",\"color\":\"yellow\",\"italic\":false}'},map:29}"        
+            }
+          ]
+        }
+      }
+    }
+  }
+  

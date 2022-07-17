@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:copper_block"
+      },
+      "title": {
+        "text": "Restauration démocratique",
+        "color": "blue"
+      },
+      "description": {
+        "text": "Entretenir la statue de cuivre au spawn",
+        "color": "green"
+      },
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "palg_adv:success",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

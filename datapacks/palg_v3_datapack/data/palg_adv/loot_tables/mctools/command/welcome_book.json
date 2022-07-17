@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:written_book",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Count:1b,id:\"minecraft:written_book\",tag:{author:\"Administrateurs de Palgania\",display:{Lore:[\"Petit guide de bienvenue\"]},pages:['{\"text\":\"[\\\\\"\\\\\",{\\\\\"text\\\\\":\\\\\"=============\\\\\",\\\\\"color\\\\\":\\\\\"dark_gray\\\\\"},{\\\\\"text\\\\\":\\\\\"\\\\\\\\n\\\\\",\\\\\"color\\\\\":\\\\\"reset\\\\\"},{\\\\\"text\\\\\":\\\\\"--\\\\\",\\\\\"color\\\\\":\\\\\"yellow\\\\\"},{\\\\\"text\\\\\":\\\\\"Bienvenue\\\\\",\\\\\"color\\\\\":\\\\\"blue\\\\\"},{\\\\\"text\\\\\":\\\\\"--\\\\\",\\\\\"color\\\\\":\\\\\"yellow\\\\\"},{\\\\\"text\\\\\":\\\\\"\\\\\\\\n\\\\\",\\\\\"color\\\\\":\\\\\"reset\\\\\"},{\\\\\"text\\\\\":\\\\\"=============\\\\\",\\\\\"color\\\\\":\\\\\"dark_gray\\\\\"},{\\\\\"text\\\\\":\\\\\"\\\\\\\\nVous êtes arrivé dans l\\'Empire de Palganie, \\\\\",\\\\\"color\\\\\":\\\\\"reset\\\\\"},{\\\\\"selector\\\\\":\\\\\"@p\\\\\"},{\\\\\"text\\\\\":\\\\\" !\\\\\\\\n\\\\\\\\nPalgania est un serveur\\\\\\\\n\\\\\"},{\\\\\"text\\\\\":\\\\\"RolePlay/Survie\\\\\",\\\\\"color\\\\\":\\\\\"gold\\\\\"},{\\\\\"text\\\\\":\\\\\" qui propose un certain nombre de quêtes et succès personnalisés.\\\\\",\\\\\"color\\\\\":\\\\\"reset\\\\\"}]\"}','{\"extra\":[{\"text\":\"Il offre aussi une expérience survie intéressante pour les joueurs voulant évoluer de leur côté.\\\\n\\\\nVous êtes à \"},{\"color\":\"dark_aqua\",\"text\":\"Visegrad\"},{\"text\":\", ville secondaire de l\\'Empire. Ici, les \"},{\"color\":\"gold\",\"text\":\"villageois sont bavards \"},{\"text\":\"! Vous pouvez \"},{\"color\":\"gold\",\"text\":\"parler avec eux\"},{\"text\":\" avec un \"},{\"color\":\"gold\",\"text\":\"clic droit\"},{\"text\":\"...\"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Si vous ne savez pas quoi faire, vous pouvez vous rendre dans le menu pause puis dans \\\\\"\"},{\"color\":\"gold\",\"text\":\"Progrès\"},{\"text\":\"\\\\\" (\\\\\"\"},{\"color\":\"gold\",\"text\":\"Achievements\"},{\"text\":\"\\\\\" en anglais). En sélectionnant l\\'icône bateau, vous pourrez apercevoir des \"},{\"color\":\"dark_purple\",\"text\":\"quêtes et succès à réaliser\"},{\"text\":\".\"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Nous vous souhaitons bon jeu sur Palgania !\\\\n\\\\n\\\\n\\\\n\\\\n\"},{\"italic\":true,\"color\":\"dark_red\",\"text\":\"    Les administrateurs\"}],\"text\":\"\"}'],resolved:1b,title:\"Bienvenue !\"}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

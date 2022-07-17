@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:command",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:firework_rocket",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{Fireworks:{Flight:3b},display:{Name:'{\"text\":\"Feu d\\'artifice infini\",\"bold\":true,\"color\":\"blue\",\"italic\":false}'}}"
+              },
+              {
+                "function": "minecraft:set_count",
+                "count": 2
+              },
+              {
+                "function": "minecraft:set_enchantments",
+                "enchantments": {
+                  "minecraft:unbreaking": 0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

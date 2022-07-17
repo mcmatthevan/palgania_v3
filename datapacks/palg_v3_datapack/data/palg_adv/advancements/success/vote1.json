@@ -1,0 +1,32 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Démocrate convaincu",
+            "color": "#92c648",
+            "bold": true
+        },
+        "description": {
+            "text": "Voter pour le serveur 7 jours d'affilée.",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:paper"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "loot": [
+          "mctools:entities/vote1"
+        ]
+    },
+    "parent": "palg_adv:success/vote0"
+}

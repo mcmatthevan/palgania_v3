@@ -1,0 +1,77 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-01-01 23:46:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-01-01 23:47:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-01 23:47:31 +0100"
+    },
+    "done": true
+  },
+  "palg_adv:quests": {
+    "criteria": {
+      "always": "2022-01-01 23:46:43 +0100"
+    },
+    "done": true
+  },
+  "palg_adv:root": {
+    "criteria": {
+      "automatic": "2022-01-01 23:46:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-01 23:47:31 +0100"
+    },
+    "done": true
+  },
+  "palg_adv:success": {
+    "criteria": {
+      "always": "2022-01-01 23:46:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-01-01 23:47:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-01-01 23:47:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-01-01 23:46:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-01-01 23:47:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2022-01-01 23:47:36 +0100",
+      "minecraft:cold_ocean": "2022-01-01 23:46:43 +0100",
+      "minecraft:plains": "2022-01-01 23:47:53 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

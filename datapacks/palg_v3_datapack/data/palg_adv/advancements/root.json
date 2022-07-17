@@ -1,0 +1,30 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Bienvenue !",
+            "color": "green",
+            "bold": false
+        },
+        "description": {
+            "text": "Le début de votre aventure sur Palgania",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:oak_boat"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/oak_planks.png"
+    },
+    "criteria": {
+        "automatic": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:air"
+            }
+        }
+    }
+}

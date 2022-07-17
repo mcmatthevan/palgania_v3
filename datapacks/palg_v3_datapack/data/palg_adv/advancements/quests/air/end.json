@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:firework_rocket"
+      },
+      "title": {
+        "text": "Le maître des cieux",
+        "color": "#A3DFE8",
+        "bold": true
+      },
+      "description": {
+        "text": "Terminer le donjon de l'air",
+        "color": "green"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "palg_adv:quests/air/cleric",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

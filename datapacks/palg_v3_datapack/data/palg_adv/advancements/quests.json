@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Quêtes",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "Les quêtes à réaliser dans le territoire impérial de Palgania",
+            "color": "yellow"
+        },
+        "icon": {
+            "item": "minecraft:wooden_sword"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "always": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld"
+            }
+        }
+    },
+    "parent": "palg_adv:root"
+}

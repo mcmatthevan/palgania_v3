@@ -1,0 +1,34 @@
+{
+  "palg_adv:quests": {
+    "criteria": {
+      "always": "2022-05-28 17:26:14 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:success/negative": {
+    "criteria": {
+      "negative": "2022-05-28 17:26:14 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:root": {
+    "criteria": {
+      "automatic": "2022-05-28 17:26:14 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:success": {
+    "criteria": {
+      "always": "2022-05-28 17:26:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2022-05-28 17:27:01 +0200",
+      "minecraft:plains": "2022-05-28 17:26:14 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

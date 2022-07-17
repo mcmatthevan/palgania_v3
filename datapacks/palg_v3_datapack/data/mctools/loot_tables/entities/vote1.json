@@ -1,0 +1,44 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond_sword",
+            "functions": [
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "Les bonnes actions payent toujours ! ;)",
+                    "color": "#FFB5F0",
+                    "italic": false
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "text": "Épée de la bonne voie",
+                  "color": "green",
+                  "bold": true,
+                  "italic": false
+                }
+              },
+              {
+                "function": "minecraft:set_enchantments",
+                "enchantments": {
+                  "minecraft:sharpness": 5,
+                  "minecraft:looting": 3,
+                  "minecraft:knockback": 2
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

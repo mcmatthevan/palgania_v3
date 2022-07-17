@@ -1,0 +1,45 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "La Chopine",
+            "color": "blue"
+        },
+        "description": {
+            "text": "Trouver et monter sur le navire nommé 'la Chopine'.",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:{Id:[I;2086411827,-737197147,-1864836294,1842688582],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmI2MDE3MWE5NDZiNjMwZjQ2YjdiNjI2ZjRhNzgwYmQxYTJkZTlhZTNiMmJjOGE2N2I2ZjViZDk3MGViNyJ9fX0=\"}]}}}"
+        },
+        "background": "yellow",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "position": {
+                    "x": {
+                        "min": 3266,
+                        "max": 3290
+                    },
+                    "y": {
+                        "min": 55,
+                        "max": 70
+                    },
+                    "z": {
+                        "min": 2673,
+                        "max": 2686
+                    }
+                }
+            }
+        }
+    },
+    "parent": "palg_adv:quests/chopine/chopine0"
+}

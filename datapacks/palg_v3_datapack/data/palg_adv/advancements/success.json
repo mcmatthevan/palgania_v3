@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Succès",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "Les succès de votre aventure",
+            "color": "yellow"
+        },
+        "icon": {
+            "item": "minecraft:green_wool"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "always": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld"
+            }
+        }
+    },
+    "parent": "palg_adv:root"
+}

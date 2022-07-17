@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:diamond_sword",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:6370001,Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s}],display:{Lore:['{\"text\":\"Faites un clic droit pour lib\u00e9rer la col\u00e8re de l\\'\u00e9p\u00e9e\",\"color\":\"green\",\"italic\":false}'],Name:'{\"text\":\"Ep\u00e9e de foudre\",\"color\":\"yellow\",\"bold\":true,\"italic\":false}'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

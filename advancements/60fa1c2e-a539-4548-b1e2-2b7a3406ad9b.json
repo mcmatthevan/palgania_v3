@@ -1,0 +1,88 @@
+{
+  "palg_adv:root": {
+    "criteria": {
+      "automatic": "2022-05-30 18:08:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-30 18:12:26 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:success": {
+    "criteria": {
+      "always": "2022-05-30 18:08:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-05-30 18:12:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-05-30 18:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-05-30 18:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-05-30 18:12:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-30 18:12:26 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:quests": {
+    "criteria": {
+      "always": "2022-05-30 18:08:13 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:success/negative": {
+    "criteria": {
+      "negative": "2022-05-30 18:08:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-05-30 18:12:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-05-30 18:12:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2022-05-30 18:12:21 +0200",
+      "minecraft:beach": "2022-05-30 18:10:27 +0200",
+      "minecraft:cold_ocean": "2022-05-30 18:10:05 +0200",
+      "minecraft:desert": "2022-05-30 18:12:44 +0200",
+      "minecraft:ocean": "2022-05-30 18:12:31 +0200",
+      "minecraft:jungle": "2022-05-30 18:08:50 +0200",
+      "minecraft:warm_ocean": "2022-05-30 18:12:33 +0200",
+      "minecraft:plains": "2022-05-30 18:08:13 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

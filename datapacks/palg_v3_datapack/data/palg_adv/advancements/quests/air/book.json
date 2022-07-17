@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:lectern"
+      },
+      "title": {
+        "text": "Historien archiviste",
+        "color": "#FFC900"
+      },
+      "description": {
+        "text": "Lire le livre relatant l'Histoire de la chapelle de Visegrad...",
+        "color": "green"
+      },
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "parent": "palg_adv:quests"
+  }
+  

@@ -1,0 +1,44 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:mossy_cobblestone"
+      },
+      "title": {
+        "text": "Un trou dans la falaise",
+        "color": "#F3B306"
+      },
+      "description": {
+        "text": "Entrer dans le donjon de Pierre",
+        "color": "green"
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "palg_adv:quests/stone/map",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "location": {
+            "position": {
+              "x": {
+                "min": 4543,
+                "max": 4551
+              },
+              "y": {
+                "min": 98,
+                "max": 104
+              },
+              "z": {
+                "min": 2715,
+                "max": 2728
+              }
+            },
+            "dimension": "minecraft:overworld"
+          }
+        }
+      }
+    }
+  }
+  

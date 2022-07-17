@@ -1,0 +1,86 @@
+{
+  "palg_adv:root": {
+    "criteria": {
+      "automatic": "2022-05-16 14:11:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 14:13:22 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:success": {
+    "criteria": {
+      "always": "2022-05-16 14:11:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 14:13:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-05-16 14:13:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2022-05-16 14:13:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 14:13:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 14:13:22 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:quests": {
+    "criteria": {
+      "always": "2022-05-16 14:11:59 +0200"
+    },
+    "done": true
+  },
+  "palg_adv:success/negative": {
+    "criteria": {
+      "negative": "2022-05-16 14:11:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 14:13:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 14:13:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-05-16 14:13:08 +0200",
+      "minecraft:deep_cold_ocean": "2022-05-16 14:13:17 +0200",
+      "minecraft:frozen_ocean": "2022-05-16 14:14:11 +0200",
+      "minecraft:jungle": "2022-05-16 14:12:18 +0200",
+      "minecraft:snowy_beach": "2022-05-16 14:14:25 +0200",
+      "minecraft:plains": "2022-05-16 14:11:59 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

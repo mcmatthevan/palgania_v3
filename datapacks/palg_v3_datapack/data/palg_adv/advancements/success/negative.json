@@ -1,0 +1,36 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Dans le rouge",
+            "color": "red"
+        },
+        "description": {
+            "text": "Descendre jusqu'aux altitudes négatives",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:deepslate"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "negative": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "dimension": "overworld",
+                "position": {
+                    "y": {
+                        "min": -64,
+                        "max": -1
+                    }
+                },
+                "smokey": false
+            }
+        }
+    },
+    "parent": "palg_adv:success"
+}

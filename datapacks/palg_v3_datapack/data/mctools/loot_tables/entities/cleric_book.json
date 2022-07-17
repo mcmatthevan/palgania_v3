@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:command",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:written_book",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{author:\"Prêtre de Visegrad, Empire Palganien.\",generation:3,pages:['{\"extra\":[{\"color\":\"dark_purple\",\"text\":\"***********************\\\\n***********************\"},{\"text\":\"\\\\n\\\\n\"},{\"color\":\"light_purple\",\"text\":\"Notes du \"},{\"italic\":true,\"color\":\"light_purple\",\"text\":\"prêtre\"},{\"color\":\"light_purple\",\"text\":\" de \"},{\"bold\":true,\"color\":\"light_purple\",\"text\":\"Visegrad\"},{\"color\":\"light_purple\",\"text\":\", Empire de Palgania. \\\\nCe livre renferme tout mon savoir, celui de mes prédécesseurs et mes confrères du monde entier.\"},{\"text\":\"\\\\n\\\\n\"},{\"color\":\"dark_purple\",\"text\":\"***********************\\\\n***********************\"},{\"text\":\"\\\\n\\\\n\\\\n\\\\n \"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Les \"},{\"color\":\"gold\",\"text\":\"tours\"},{\"text\":\" : Des tours faisant près de 50m de haut chacune se trouvent partout dans notre monde et dans les autres dimensions.\\\\nD\\'après le prêtre du Cartographe Silencieux, dans les colonies, elles sont toutes pareilles : seul le contenu du coffre à leur sommet change. \"}],\"text\":\"\"}','{\"text\":\"Si j\\'avais le courage de monter tout en haut, je serais curieux de voir ce qu\\'elles abritent.\"}','{\"extra\":[{\"color\":\"red\",\"text\":\"Outils spéciaux\"},{\"text\":\" : Ces outils ont été créés par les mêmes personnes que les tours. Ces outils sont au nombre de 4. La seule connue à l\\'heure actuelle et la Taiky_Pickaxe, qui semble avoir été répliquée et amenée sur le continent, chez les Troglodytes. \"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Le \"},{\"color\":\"aqua\",\"text\":\"Paradis\"},{\"text\":\" : D\\'après le maitre du prêtre du Cartographe Silencieux, il existerait un monde au-delà des nuages, un monde rempli de bizarreries. \"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Les \"},{\"color\":\"dark_green\",\"text\":\"Crânes\"},{\"text\":\" : Originaires des colonies Palganiennes, ces crânes magiques d\\'une époque révolue, ils ont été ramenés ici par notre marine. Je ne sais pas trop à quoi ils servent. Quoi qu\\'il en soit, les Troglodytes en cherchent activement.\"}],\"text\":\"\"}','{\"extra\":[{\"text\":\"Les \"},{\"color\":\"red\",\"text\":\"Donjons\"},{\"text\":\" : Sous les terres de notre continent se cachent des sortes de temples. Certains bien connus abritent des spawner à monstres, d\\'autres, encore au rang de légendes, abritent apparemment des outils spéciaux. Il parait aussi que s\\'y aventurer est très dangereux. \"}],\"text\":\"\"}','{\"text\":\"J\\'essaye de trouver un des ces fameux Donjons en fouillant les tours et ruines laissés par nos ancêtres. Je sens que cela ne vas pas être un mince affaire. En attendant que je rentre de mon expédition, mon apprenti vas garder mon église. \"}'],resolved:1b,title:\"Notes du Prêtre de Visegrad\"}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

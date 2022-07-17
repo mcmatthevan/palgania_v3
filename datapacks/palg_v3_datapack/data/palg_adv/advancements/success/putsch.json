@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "La République c'est PAS toi",
+            "color": "dark_red",
+            "bold": true
+        },
+        "description": {
+            "text": "Tenter de réaliser un coup d'état avec la commande /op.",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:pufferfish"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "palg_adv:success"
+}

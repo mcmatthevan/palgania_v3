@@ -1,0 +1,29 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:copper_ingot"
+      },
+      "title": {
+        "text": "Enfin la fibre !",
+        "color": "yellow"
+      },
+      "description": [
+        {
+          "text": "Se débarrasser des fils en cuivre de l'ADSL !\n",
+          "color": "green"
+        },
+        {
+          "text": " (jeter un lingot de cuivre dans la lave)",
+          "color": "dark_green",
+          "italic": true
+        }
+      ]
+    },
+    "parent": "palg_adv:success",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

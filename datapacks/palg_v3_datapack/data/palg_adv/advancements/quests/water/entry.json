@@ -1,0 +1,44 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:dark_prismarine"
+      },
+      "title": {
+        "text": "Plongée sous-marine",
+        "color": "blue"
+      },
+      "description": {
+        "text": "Entrer dans le donjon de l'Eau",
+        "color": "green"
+      },
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "palg_adv:quests/water/map",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "location": {
+            "position": {
+              "x": {
+                "min": 1713,
+                "max": 1741
+              },
+              "y": {
+                "min": -20,
+                "max": 63
+              },
+              "z": {
+                "min": 3574,
+                "max": 3605
+              }
+            },
+            "dimension": "minecraft:overworld"
+          }
+        }
+      }
+    }
+  }
+  

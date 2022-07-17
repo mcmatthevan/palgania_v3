@@ -1,0 +1,38 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_sword",
+        "nbt": "{CustomModelData:6370003}"
+      },
+      "title": {
+        "text": "Le nouveau Dieu de l'Eau",
+        "color": "blue",
+        "bold": true
+      },
+      "description": {
+        "text": "Vaincre le Dieu de l'Eau et obtenir son Epée.",
+        "color": "green"
+      },
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "palg_adv:quests/water/entry",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:diamond_sword"
+              ],
+              "nbt": "{CustomModelData:6370003,Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s}],display:{Lore:['{\"text\":\"Faites un clic droit sur l\\'eau pour la changer en glace.\",\"color\":\"green\",\"italic\":false}'],Name:'{\"text\":\"Epée de l\\'Eau\",\"color\":\"cyan\",\"bold\":true,\"italic\":false}'}}"
+            }
+          ]
+        }
+      }
+    }
+  }
+  
